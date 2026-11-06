@@ -1,0 +1,3 @@
+interface:
+  display_name: "Python 顶部配置开发"
+  short_description: "可调参数统一写在脚本顶部配置区，不用命令行解析，保持函数清晰且便于维护"

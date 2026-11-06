@@ -1,0 +1,3 @@
+interface:
+  display_name: "Python 架构优先开发"
+  short_description: "先设计架构与函数契约，再串联完整骨架，逐个实现易读且易维护的 Python 代码"
